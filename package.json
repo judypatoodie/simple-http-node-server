@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "Creating a HTTP server on port 3000",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judypatoodie/simple-http-node-server.git"
+  },
+  "author": "Judy Huynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judypatoodie/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/judypatoodie/simple-http-node-server#readme"
+}
